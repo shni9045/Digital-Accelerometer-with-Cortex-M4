@@ -7,3 +7,4 @@
 
 ## Hardware Connections
 
+![Hardware Connection image](https://github.com/shni9045/Digital-Accelerometer-with-Cortex-M4/blob/main/Images/MSP32_adxl.png)
